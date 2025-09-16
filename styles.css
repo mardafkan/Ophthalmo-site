@@ -1,8 +1,1 @@
-
-:root {
-  --primary: #1666d1;
-}
-.navbar-brand { letter-spacing: .4px; }
-.card img { object-fit: cover; height: 190px; }
-.badge.bg-primary-subtle { background: #e8f1ff!important; }
-footer { font-size: .9rem; }
+/* custom styles */
