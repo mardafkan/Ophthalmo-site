@@ -1,1 +1,1 @@
-// custom scripts
+// Custom scripts placeholder

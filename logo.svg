@@ -1,0 +1,7 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="220" height="66" aria-hidden="true" focusable="false">
+  <ellipse cx="50" cy="33" rx="44" ry="24" fill="#0d6efd"/>
+  <circle cx="50" cy="33" r="12" fill="#ffffff"/>
+  <circle cx="50" cy="33" r="6" fill="#000000"/>
+  <text x="120" y="44" font-family="Arial, sans-serif" font-size="36" fill="#0d6efd">OphthalmoTrade</text>
+</svg>
